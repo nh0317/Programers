@@ -53,11 +53,11 @@
 ---
 
 ## LEVEL2
-* 주식 가격 
-* 멀쩡한 사각형 
-* 스킬트리 
-* 다리를 지나는 트럭 
-* 기능 개발 
-* 124 나라의 숫자 
-* 프린터 
-* 삼각 달팽이 
+* [주식 가격](https://record-of-coding.tistory.com/1)
+* [멀쩡한 사각형](https://record-of-coding.tistory.com/7) 
+* [스킬트리](https://record-of-coding.tistory.com/6) 
+* [다리를 지나는 트럭](https://record-of-coding.tistory.com/2) 
+* [기능 개발](https://record-of-coding.tistory.com/3) 
+* [124 나라의 숫자](https://record-of-coding.tistory.com/5) 
+* [프린터](https://record-of-coding.tistory.com/4) 
+* [삼각 달팽이](https://record-of-coding.tistory.com/8) 
